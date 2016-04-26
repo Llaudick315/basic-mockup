@@ -41,3 +41,40 @@ body { width: 100%;}
 /********************************************
 * ADD YOUR CSS HERE :D
 ********************************************/
+
+header {
+	background-color: deepskyblue;
+}
+
+.instructions {
+	background-color: white;
+	border:5px solid lightgray;
+	padding: 10px 20px;
+}
+
+.pull-left {
+	float: left;
+	border: 5px solid lightgray;
+	margin: 15px;
+}
+
+.clear {
+	background-color: deepskyblue;
+	padding: 10px 20px;
+}
+.pull-right {
+	float: right;
+	border: 5px solid white;
+}
+
+footer {
+	background-color: black;
+}
+
+footer p {
+	color: grey;
+}
+
+
+
+
