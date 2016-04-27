@@ -47,6 +47,10 @@ header {
 	background-color: deepskyblue;
 	margin:0px 0px 30px;
 	padding:5px;
+	font-family: sans-serif;
+}
+main {
+	font-family: sans-serif;
 }
 
 .instructions {
@@ -65,7 +69,7 @@ header {
 
 .clear {
 	background-color: deepskyblue;
-	padding: 10px 20px;
+	padding: 7px 15px;
 }
 .pull-right {
 	float: right;
@@ -75,12 +79,6 @@ header {
 footer {
 	background-color: black;
 	padding: 5px;
-}
-
-footer p {
+	font-style: italic;
 	color: grey;
 }
-
-
-
-
